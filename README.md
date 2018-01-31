@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 I wish to study the economy through the complex systems paradigm.
 
